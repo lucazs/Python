@@ -2,7 +2,7 @@
 
 ## 📚 Módulo 1 – Introdução ao Python
 
-* [O que é Python](./Fundamentos_De_Python/Modulo-1/Modulo-1.ipynb)
+* [O que é Python](./Fundamentos_De_Python/Modulo-1/O_Que_E_O_Python.ipynb)
 * História do Python
 * Onde Python é utilizado
 * Instalação
