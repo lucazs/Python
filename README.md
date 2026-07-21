@@ -4,7 +4,7 @@
 
 * [O que é Python](./Fundamentos_De_Python/Modulo-1/O_Que_E_O_Python.ipynb)
 * [História do Python](./Fundamentos_De_Python/Modulo-1/Historia.ipynb)
-* Onde Python é utilizado
+* [Onde Python é utilizado](./Fundamentos_De_Python/Modulo-1/Onde_O_Python_E_Utilizado.ipynb)
 * Instalação
 * Python.org
 * VS Code
