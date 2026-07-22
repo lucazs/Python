@@ -1,6 +1,8 @@
-# Fundamentos de Python
+# Estudo de Python
 
-## 📚 Módulo 1 – Introdução ao Python
+## Fundamentos de Python
+
+### 📚 Módulo 1 – Introdução ao Python
 
 * [O que é Python](./Fundamentos_De_Python/Modulo-1/O_Que_E_O_Python.ipynb)
 * [História do Python](./Fundamentos_De_Python/Modulo-1/Historia.ipynb)
@@ -26,7 +28,7 @@
 
 ---
 
-## 📚 Módulo 2 – Variáveis e Tipos de Dados
+### 📚 Módulo 2 – Variáveis e Tipos de Dados
 
 * Variáveis
 * Nomeação de variáveis
@@ -47,9 +49,9 @@
 
 ---
 
-## 📚 Módulo 3 – Operadores
+### 📚 Módulo 3 – Operadores
 
-### Aritméticos
+#### Aritméticos
 
 * *
 * *
@@ -58,7 +60,7 @@
 * //
 * %
 
-### Comparação
+#### Comparação
 
 * ==
 * !=
@@ -67,23 +69,23 @@
 * > =
 * <=
 
-### Lógicos
+#### Lógicos
 
 * and
 * or
 * not
 
-### Associação
+#### Associação
 
 * is
 * is not
 
-### Pertencimento
+#### Pertencimento
 
 * in
 * not in
 
-### Bitwise
+#### Bitwise
 
 * &
 * |
@@ -94,7 +96,7 @@
 
 ---
 
-## 📚 Módulo 4 – Entrada e Saída
+### 📚 Módulo 4 – Entrada e Saída
 
 * print()
 * input()
@@ -107,7 +109,7 @@
 
 ---
 
-## 📚 Módulo 5 – Controle de Fluxo
+### 📚 Módulo 5 – Controle de Fluxo
 
 * if
 * elif
@@ -120,7 +122,7 @@
 
 ---
 
-## 📚 Módulo 6 – Loops
+### 📚 Módulo 6 – Loops
 
 * while
 * for
@@ -132,7 +134,7 @@
 
 ---
 
-## 📚 Módulo 7 – Strings
+### 📚 Módulo 7 – Strings
 
 * Indexação
 * Slice
@@ -157,9 +159,9 @@
 
 ---
 
-## 📚 Módulo 8 – Coleções
+### 📚 Módulo 8 – Coleções
 
-### List
+#### List
 
 * append
 * extend
@@ -171,13 +173,13 @@
 * reverse
 * sort
 
-### Tuple
+#### Tuple
 
 * Imutabilidade
 * Packing
 * Unpacking
 
-### Set
+#### Set
 
 * add
 * remove
@@ -186,7 +188,7 @@
 * intersection
 * difference
 
-### Dictionary
+#### Dictionary
 
 * keys
 * values
@@ -200,7 +202,7 @@
 
 ---
 
-## 📚 Módulo 9 – List Comprehension
+### 📚 Módulo 9 – List Comprehension
 
 * List comprehension
 * Dict comprehension
@@ -209,7 +211,7 @@
 
 ---
 
-## 📚 Módulo 10 – Funções
+### 📚 Módulo 10 – Funções
 
 * Definição
 * Retorno
@@ -225,7 +227,7 @@
 
 ---
 
-## 📚 Módulo 11 – Módulos e Pacotes
+### 📚 Módulo 11 – Módulos e Pacotes
 
 * import
 * from
@@ -238,7 +240,7 @@
 
 ---
 
-## 📚 Módulo 12 – Tratamento de Exceções
+### 📚 Módulo 12 – Tratamento de Exceções
 
 * try
 * except
@@ -250,7 +252,7 @@
 
 ---
 
-## 📚 Módulo 13 – Arquivos
+### 📚 Módulo 13 – Arquivos
 
 * open
 * read
@@ -265,7 +267,7 @@
 
 ---
 
-## 📚 Módulo 14 – Programação Orientada a Objetos
+### 📚 Módulo 14 – Programação Orientada a Objetos
 
 * Classes
 * Objetos
@@ -289,7 +291,7 @@
 
 ---
 
-## 📚 Módulo 15 – Métodos Especiais (Dunder)
+### 📚 Módulo 15 – Métodos Especiais (Dunder)
 
 * **init**
 * **str**
@@ -308,7 +310,7 @@
 
 ---
 
-## 📚 Módulo 16 – Iteradores e Geradores
+### 📚 Módulo 16 – Iteradores e Geradores
 
 * iter()
 * next()
@@ -318,7 +320,7 @@
 
 ---
 
-## 📚 Módulo 17 – Decoradores
+### 📚 Módulo 17 – Decoradores
 
 * Decorator
 * Função decoradora
@@ -328,7 +330,7 @@
 
 ---
 
-## 📚 Módulo 18 – Context Managers
+### 📚 Módulo 18 – Context Managers
 
 * with
 * **enter**
@@ -337,7 +339,7 @@
 
 ---
 
-## 📚 Módulo 19 – Programação Funcional
+### 📚 Módulo 19 – Programação Funcional
 
 * map
 * filter
@@ -352,7 +354,7 @@
 
 ---
 
-## 📚 Módulo 20 – Expressões Regulares
+### 📚 Módulo 20 – Expressões Regulares
 
 * re
 * match
@@ -365,7 +367,7 @@
 
 ---
 
-## 📚 Módulo 21 – Tipagem
+### 📚 Módulo 21 – Tipagem
 
 * Type Hint
 * typing
@@ -381,7 +383,7 @@
 
 ---
 
-## 📚 Módulo 22 – Bibliotecas Padrão
+### 📚 Módulo 22 – Bibliotecas Padrão
 
 * os
 * sys
@@ -412,7 +414,7 @@
 
 ---
 
-## 📚 Módulo 23 – Banco de Dados
+### 📚 Módulo 23 – Banco de Dados
 
 * SQLite
 * MySQL
@@ -431,7 +433,7 @@ Bibliotecas
 
 ---
 
-## 📚 Módulo 24 – APIs
+### 📚 Módulo 24 – APIs
 
 * REST
 * RESTful
@@ -453,7 +455,7 @@ Frameworks
 
 ---
 
-## 📚 Módulo 25 – Desenvolvimento Web
+### 📚 Módulo 25 – Desenvolvimento Web
 
 Flask
 
@@ -484,7 +486,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 26 – Testes
+### 📚 Módulo 26 – Testes
 
 * unittest
 * pytest
@@ -495,7 +497,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 27 – Concorrência
+### 📚 Módulo 27 – Concorrência
 
 * threading
 * multiprocessing
@@ -506,7 +508,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 28 – Networking
+### 📚 Módulo 28 – Networking
 
 * socket
 * requests
@@ -517,7 +519,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 29 – Interface Gráfica
+### 📚 Módulo 29 – Interface Gráfica
 
 * Tkinter
 * PyQt
@@ -526,7 +528,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 30 – Automação
+### 📚 Módulo 30 – Automação
 
 * Selenium
 * Playwright
@@ -539,7 +541,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 31 – Ciência de Dados
+### 📚 Módulo 31 – Ciência de Dados
 
 * NumPy
 * Pandas
@@ -551,7 +553,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 32 – Machine Learning
+### 📚 Módulo 32 – Machine Learning
 
 * Scikit-learn
 * TensorFlow
@@ -563,7 +565,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 33 – Processamento de Linguagem Natural (NLP)
+### 📚 Módulo 33 – Processamento de Linguagem Natural (NLP)
 
 * NLTK
 * spaCy
@@ -573,7 +575,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 34 – Visão Computacional
+### 📚 Módulo 34 – Visão Computacional
 
 * OpenCV
 * Pillow
@@ -582,7 +584,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 35 – Segurança
+### 📚 Módulo 35 – Segurança
 
 * Criptografia
 * JWT
@@ -596,7 +598,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 36 – DevOps
+### 📚 Módulo 36 – DevOps
 
 * Docker
 * Docker Compose
@@ -608,7 +610,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 37 – Performance
+### 📚 Módulo 37 – Performance
 
 * Profiling
 * cProfile
@@ -620,7 +622,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 38 – Design Patterns
+### 📚 Módulo 38 – Design Patterns
 
 * Singleton
 * Factory
@@ -635,7 +637,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 39 – Arquitetura de Software
+### 📚 Módulo 39 – Arquitetura de Software
 
 * SOLID
 * Clean Code
@@ -650,7 +652,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 40 – Tópicos Avançados
+### 📚 Módulo 40 – Tópicos Avançados
 
 * Metaclasses
 * Reflection
@@ -669,7 +671,7 @@ FastAPI
 
 ---
 
-## 📚 Módulo 41 – Ecossistema Python
+### 📚 Módulo 41 – Ecossistema Python
 
 * Poetry
 * uv
@@ -686,9 +688,9 @@ FastAPI
 
 ---
 
-## 📚 Módulo 42 – Projetos Práticos
+### 📚 Módulo 42 – Projetos Práticos
 
-### Iniciante
+#### Iniciante
 
 * Calculadora
 * Conversor de moedas
@@ -698,7 +700,7 @@ FastAPI
 * Sistema de notas
 * Lista de tarefas (CLI)
 
-### Intermediário
+#### Intermediário
 
 * CRUD completo
 * Sistema bancário
@@ -710,7 +712,7 @@ FastAPI
 * Automação de planilhas
 * Gerador de relatórios PDF
 
-## Avançado
+### Avançado
 
 * Clone simplificado do Trello
 * E-commerce
@@ -731,7 +733,7 @@ FastAPI
 
 ---
 
-## Ordem recomendada de estudo
+### Ordem recomendada de estudo
 
 1. Fundamentos da linguagem (Módulos 1–10)
 2. Organização do código e tratamento de erros (11–13)
@@ -745,3 +747,8 @@ FastAPI
 10. Consolidação por meio de projetos práticos (42)
 
 Esse roteiro cobre desde o nível iniciante até tópicos utilizados por desenvolvedores Python experientes em desenvolvimento web, automação, ciência de dados, IA e engenharia de software.
+
+## Algoritmos
+
+* [Busca Binária](./Algoritmos/Algoritmo_Busca_binaria.ipynb)
+* [Aula02](./Algoritmos/NotacaoBigO.ipynb)
