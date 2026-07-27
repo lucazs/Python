@@ -752,4 +752,4 @@ Esse roteiro cobre desde o nível iniciante até tópicos utilizados por desenvo
 
 * [Busca Binária](./Algoritmos/Algoritmo_Busca_binaria.ipynb)
 * [Notação Big O](./Algoritmos/NotacaoBigO.ipynb)
-* []
+* [Ordenação Por Seleção](./Algoritmos/OrdenacaoPorSelecao.ipynb)
