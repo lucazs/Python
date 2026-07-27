@@ -755,3 +755,5 @@ Esse roteiro cobre desde o nível iniciante até tópicos utilizados por desenvo
 * [Ordenação Por Seleção](./Algoritmos/OrdenacaoPorSelecao.ipynb)
 
 ## Scripts
+
+* []
