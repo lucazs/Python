@@ -756,5 +756,7 @@ Esse roteiro cobre desde o nível iniciante até tópicos utilizados por desenvo
 
 ## Scripts
 
-* [Pesquisa Binária](./Algoritmos/Scritps/pesquisa_binaria.sh)
+* Pesquisa Binária:
+  * [Em C](./Algoritmos/Scritps/PesquisaBinaria.c)
+  * [Em Bash](./Algoritmos/Scritps/pesquisa_binaria.sh)
 * [Ordenação por Seleção](./Algoritmos/Scritps/OrdenacaoPorSelecao.c)
